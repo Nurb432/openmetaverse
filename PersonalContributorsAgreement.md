@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://openmetaverse.googlecode.com/svn/files/omf\_personal\_contrib\_agreement.xml" width="680" height="700"/&gt;
